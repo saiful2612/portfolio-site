@@ -1,0 +1,31 @@
+.contact h2{
+    line-height: normal;
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.contact{
+    background-color:skyblue;
+    height: 500px;
+
+}
+
+.touch{
+    width: 50%;
+    text-align: center;
+    margin-left: 25%;
+    padding-top: 10%;
+    font-weight: bolder;
+    text-shadow: springgreen;
+}
+
+.contact img{
+    width: 5%;
+    padding-right: 5px;
+}
+
+.socialMedia{
+    padding: 10px;
+    margin-left: 45%;
+
+}

@@ -1,0 +1,21 @@
+.box{
+    width: 30%;
+    margin: 10px;
+}
+.box img{
+    width: 70%;
+    padding-left: 5%;
+}
+.box h2{
+    text-align: center;
+    padding-right: 40px;
+}
+
+.product{
+    margin-left: 45%;
+}
+
+.work{
+    background-color: slateblue;
+    padding: 2%;
+}
