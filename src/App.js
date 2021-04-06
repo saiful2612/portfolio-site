@@ -38,6 +38,9 @@ function App() {
           <Route path="/blog">
             <Blog></Blog>
           </Route>
+          <Route exact path="/">
+            <Home></Home>
+          </Route>
         </Switch>
       </Router>
     </div>
