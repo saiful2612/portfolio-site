@@ -13,6 +13,7 @@ import About from './Component/About/About';
 import Work from './Component/Work/Work';
 import Contact from './Component/Contact/Contact';
 import Home from './Component/Home/Home';
+import Blog from './Component/Blog/Blog';
 
 function App() {
   return (
@@ -33,6 +34,9 @@ function App() {
           </Route>
           <Route path="/contact">
             <Contact></Contact>
+          </Route>
+          <Route path="/blog">
+            <Blog></Blog>
           </Route>
         </Switch>
       </Router>

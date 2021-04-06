@@ -12,7 +12,7 @@ const About = () => {
     return (
         <div className="Wall">
             <div className="profile">
-                <h3 className="headings">PROFILE</h3>
+                <h3 className="headings">ABOUT ME</h3>
                 <p>I'm Md. Saiful Islam. I'm self taught Frontend Developer with over 8 month's experience. I can make any web pages and try to make clients supreme satisfaction.</p>
             </div>
 
