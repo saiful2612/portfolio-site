@@ -9,7 +9,7 @@ const Contact = () => {
            <div className="touch">
            <h2>Address: Chankharpul, Dhaka</h2>
             <h2>Mobile : 01719 390876</h2>
-            <h2>Email: saiful.riyaz@gmai.com</h2>
+            <h2>Email: saiful.riyaz@gmail.com</h2>
            </div>
 
            <div className="socialMedia">

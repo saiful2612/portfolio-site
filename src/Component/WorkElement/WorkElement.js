@@ -9,12 +9,12 @@ const WorkElement = () => {
             <h1 className="headings">Work Experience</h1>
             <div className="workExperience">
                 <div className="Ecommerce">
-                    <h1 className="headings">E-commerse page</h1>
+                    <h1>E-commerse page</h1>
                     <img src={shop} alt=""/>
                 </div>
 
                 <div className="Eschool">
-                    <h1 className="headings" >Online School</h1>
+                    <h1>Online School</h1>
                     <img src={school} alt=""/>
                 </div>
             </div>
