@@ -16,6 +16,7 @@ import Blog from '../Blog/Blog';
 const Header = () => {
     return (
         <div className="header">
+            <Home></Home>
             <Router>
                 <nav>
                     <ul>
