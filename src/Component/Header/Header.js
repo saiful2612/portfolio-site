@@ -16,11 +16,10 @@ import Blog from '../Blog/Blog';
 const Header = () => {
     return (
         <div className="header">
-            <Home></Home>
             <Router>
                 <nav>
                     <ul>
-                        <li><Link to="/home">Home</Link></li>
+                        <li><Link to="/">Home</Link></li>
                         <li><Link to="/about">About</Link></li>
                         <li><Link to="/work">Work</Link></li>
                         <li><Link to="/contact">Contact</Link></li>
@@ -28,9 +27,6 @@ const Header = () => {
                     </ul>
                 </nav>
                 <Switch>
-                    <Route path="/home">
-                        <Home></Home>
-                    </Route>
                     <Route path="/about">
                         <About></About>
                     </Route>
@@ -42,6 +38,9 @@ const Header = () => {
                     </Route>
                     <Route path="/blog">
                         <Blog></Blog>
+                    </Route>
+                    <Route exact path="/">
+                        <Home></Home>
                     </Route>
                 </Switch>
             </Router>
