@@ -1,23 +1,13 @@
-.home img{
-    width: 75%;
-}
-
 .home{
-    display: flex;
     background-color: slateblue;
     height: 500px;
+    display: flex;
 }
 
-.one{
-    width: 55%;
-    height: 400px;
-    margin-top: 5%;
-    margin-left: 1%;
+.photo-area{
+    width: 50%;
 }
 
-.two{
-    margin-top: 15%;
-    line-height: normal;
-    font-size: 15px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+.info-area{
+    width: 50%;
 }

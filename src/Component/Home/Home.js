@@ -1,17 +1,17 @@
 import React from 'react';
-import photo from "../../images/photo.JPG";
+import Hdetails from '../Hdetails/Hdetails';
+import HPhoto from '../HPhoto/HPhoto';
 import "./Home.css"
 
 const Home = () => {
     return (
         <div class="home">
-            <div className="one">
-                <img src={photo} alt=""/>
+            <div className="photo-area">
+                <HPhoto></HPhoto>
             </div>
 
-            <div className="two">
-                <h1> MD. SAIFUL ISLAM</h1>
-                <h4>I am a frontend Developer</h4>
+            <div className="info-area">
+                <Hdetails></Hdetails>
             </div>
 
         </div>
