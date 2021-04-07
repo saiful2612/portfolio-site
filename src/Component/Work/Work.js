@@ -7,8 +7,7 @@ import "./Work.css";
 const Work = () => {
     return (
         <div className="work">
-            <h1 className="headings">Work</h1>
-            <WorkElement></WorkElement>
+            <WorkElement></WorkElement> 
         </div>
     );
 };
