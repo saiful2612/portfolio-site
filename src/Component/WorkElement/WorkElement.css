@@ -1,0 +1,15 @@
+.workExperience{
+    display: flex;
+    margin: 10px;
+    margin-left: 30%;
+}
+
+.Ecoomerce{
+    width: 50%;
+    padding-right: 5px;
+}
+
+.Eschool{
+    width: 50%;
+    padding-left: 5px;
+}

@@ -1,0 +1,16 @@
+.profile{
+    background-color: skyblue;
+    width: 70%;
+    height: 200px;
+    border-radius: 10px;
+    margin-left: 20%;
+    padding-top: 1px;
+}
+
+.headings{
+    text-align: center;
+    padding-top: 10px;
+    border-bottom: 1px solid grey;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
