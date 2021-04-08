@@ -11,8 +11,8 @@ const WorkElement = () => {
             <div className="workExperience">
                 <div className="Ecommerce">
                     <h3>E-commerce site</h3>
-                    <img src={shop} alt=""/>
-                </div>
+                    <a href="https://youthful-boyd-ccc2e2.netlify.app/shop"><img src={shop} alt=""/></a>
+                    </div>
 
                 <div className="Eschool">
                     <h3>Online Education</h3>
