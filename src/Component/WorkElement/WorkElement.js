@@ -16,7 +16,7 @@ const WorkElement = () => {
 
                 <div className="Eschool">
                     <h3>Online Education</h3>
-                    <img src={school} alt=""/>
+                    <a href="https://friendly-noyce-7ba506.netlify.app"><img src={school} alt=""/></a>
                 </div>
 
                 <div className="github">
