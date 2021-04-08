@@ -1,7 +1,9 @@
 .expertise img{
     width: 13%;
-    margin-left: 10px;
-    margin-right: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding: 5px;
+    margin-top: 15px;
 }
 
 .expertise{
@@ -11,4 +13,6 @@
     margin-top: 20px;
     width: 70%;
     margin-left: 20%;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }

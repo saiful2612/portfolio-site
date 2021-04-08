@@ -1,12 +1,13 @@
 .contact h2{
     line-height: normal;
-    font-size: 15px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    letter-spacing: 1px;
+    font-size: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 .contact{
-    background-color:skyblue;
-    height: 500px;
+    background-color:rgb(199, 193, 193);
+    height: 523px;
 
 }
 
@@ -15,16 +16,22 @@
     text-align: center;
     margin-left: 25%;
     padding-top: 10%;
+}
+
+.stylist{
+    color: rgb(177, 112, 59) ;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-weight: bolder;
-    text-shadow: springgreen;
 }
 
 .contact img{
-    width: 5%;
-    padding-right: 5px;
+    width: 7%;
+    padding-right: 10px;
+
 }
 
 .socialMedia{
+    margin-top: 20px;
     padding: 10px;
     margin-left: 45%;
 

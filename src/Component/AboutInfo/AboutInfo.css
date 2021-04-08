@@ -1,16 +1,26 @@
 .profile{
-    background-color: skyblue;
+    background-color: silver;
     width: 70%;
     height: 200px;
     border-radius: 10px;
     margin-left: 20%;
-    padding-top: 1px;
 }
 
 .headings{
     text-align: center;
-    padding-top: 10px;
+    padding-top: 15px;
+    padding-bottom: 15px;
     border-bottom: 1px solid grey;
     font-size: 20px;
+    line-height: normal;
+    letter-spacing: normal;
     font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.profile p{
+    color:rgb(36, 34, 34);
+    font-size: large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    line-height: 0rem;
+    letter-spacing: 0rem;
 }

@@ -6,7 +6,7 @@ const Hdetails = () => {
     return (
         <div className="HomeInfo">
             <h1> MD. SAIFUL ISLAM</h1>
-            <h4>I am a frontend Developer</h4>
+            <h4>Frontend Developer</h4>
         </div>
     );
 };

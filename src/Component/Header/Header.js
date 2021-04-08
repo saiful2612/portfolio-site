@@ -19,11 +19,21 @@ const Header = () => {
             <Router>
                 <nav>
                     <ul>
-                        <li><Link to="/">Home</Link></li>
-                        <li><Link to="/about">About</Link></li>
-                        <li><Link to="/work">Work</Link></li>
-                        <li><Link to="/contact">Contact</Link></li>
-                        <li><Link to="/blog">Blog</Link></li>
+                        <li>
+                            <Link className="text-link" to="/">Home</Link>
+                        </li>
+                        <li>
+                            <Link className="text-link" to="/about">About</Link>
+                        </li>
+                        <li>
+                            <Link className="text-link" to="/work">Work</Link>
+                        </li>
+                        <li>
+                            <Link className="text-link" to="/contact">Contact</Link>
+                        </li>
+                        <li>
+                            <Link className="text-link" to="/blog">Blog</Link>
+                        </li>
                     </ul>
                 </nav>
                 <Switch>

@@ -7,14 +7,14 @@ const Contact = () => {
     return (
         <div className="contact">
            <div className="touch">
-           <h2>Address: Chankharpul, Dhaka</h2>
-            <h2>Mobile : 01719 390876</h2>
-            <h2>Email: saiful.riyaz@gmail.com</h2>
+           <h2> <span className="stylist"> Address:</span> 11/A, Chankharpul, Dhaka.</h2>
+            <h2> <span className="stylist"> Mobile:</span>  01719 390876</h2>
+            <h2> <span className="stylist"> Email: </span>  saiful.riyaz@gmail.com</h2>
            </div>
 
            <div className="socialMedia">
-               <img src={facebook} alt=""/>
-               <img src={linked} alt=""/>
+               <a href="https://www.facebook.com/saiful.riyaz/"><img src={facebook} alt=""/></a>
+               <a href="https://www.linkedin.com/in/saiful-riyaz-2a2931144/"><img src={linked} alt=""/></a>
            </div>
 
         </div>

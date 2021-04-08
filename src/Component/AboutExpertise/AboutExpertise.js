@@ -1,9 +1,9 @@
 import React from 'react';
 import "./AboutExpertise.css";
 import html from "../../images/html.png";
-import css3 from "../../images/css3.png";
-import bootstrap from "../../images/bootstrap.png";
-import js from "../../images/JS.jpg";
+import css3 from "../../images/cs3.png";
+import bootstrap from "../../images/bts.png";
+import js from "../../images/jsb.png";
 import react from "../../images/react.png";
 import firebase from "../../images/firebase.webp";
 

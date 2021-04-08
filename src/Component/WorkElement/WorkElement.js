@@ -2,20 +2,27 @@ import React from 'react';
 import "./WorkElement.css";
 import school from "../../images/school.jpg";
 import shop from "../../images/shop.jpg";
+import Github from "../../images/Github.jpg" 
 
 const WorkElement = () => {
     return (
-        <div >
-            <h1 className="headings">Work Experience</h1>
+        <div className="Wheading">
+            <h1 >Work Experience</h1>
             <div className="workExperience">
                 <div className="Ecommerce">
-                    <h1>E-commerse page</h1>
+                    <h3>E-commerce site</h3>
                     <img src={shop} alt=""/>
                 </div>
 
                 <div className="Eschool">
-                    <h1>Online School</h1>
+                    <h3>Online Education</h3>
                     <img src={school} alt=""/>
+                </div>
+
+                <div className="github">
+                    <h3>Git Hub </h3>
+                    <a href="https://github.com/saiful2612"> <img src={Github} alt=""/></a>
+                    
                 </div>
             </div>
         </div>

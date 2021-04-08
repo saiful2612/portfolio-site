@@ -5,14 +5,17 @@ import "./Home.css"
 
 const Home = () => {
     return (
-        <div class="home">
-            <div className="photo-area">
-                <HPhoto></HPhoto>
-            </div>
+        <div className="homeWall">
+            <div className="home">
+                <div className="photo-area">
+                    <HPhoto></HPhoto>
+                </div>
 
-            <div className="info-area">
-                <Hdetails></Hdetails>
+                <div className="info-area">
+                    <Hdetails></Hdetails>
+                </div>
             </div>
+            
 
         </div>
     );
