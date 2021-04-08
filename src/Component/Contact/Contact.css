@@ -24,6 +24,27 @@
     font-weight: bolder;
 }
 
+.exact{
+    margin-left: 12%;
+}
+
+.fixed{
+    margin-right: 2%;
+}
+
+.oneT{
+    margin-left: 5px;
+}
+
+.twoT{
+    margin-right: 12%;
+}
+.thirdT{
+    margin-left: 4%;
+}
+.fixing{
+    margin-left: 5%;
+}
 .contact img{
     width: 7%;
     padding-right: 10px;
