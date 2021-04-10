@@ -12,6 +12,6 @@
 
 .homeWall{
     background-color:#F0FFF0;
-    height: 523px;
+    height: 100vh;
     display: flex;
 }

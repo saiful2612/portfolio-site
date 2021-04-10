@@ -6,13 +6,15 @@
     margin-top: 15px;
 }
 
+.firebase img{
+    width: 10%;
+}
+
 .expertise{
-    background-color: silver;
+    background-color: #c0c0c052;
+    box-sizing: border-box;
     border-radius: 10px;
-    padding: 3px;
-    margin-top: 20px;
+    padding: 50px;
     width: 70%;
-    margin-left: 20%;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    margin: 20px auto;
 }

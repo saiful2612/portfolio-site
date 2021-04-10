@@ -5,7 +5,7 @@ import css3 from "../../images/cs3.png";
 import bootstrap from "../../images/bts.png";
 import js from "../../images/jsb.png";
 import react from "../../images/react.png";
-import firebase from "../../images/firebase.webp";
+import firebase from "../../images/firebaseOne.png";
 
 const AboutExpertise = () => {
     return (
@@ -16,7 +16,7 @@ const AboutExpertise = () => {
             <img src={bootstrap} alt=""/>
             <img src={js} alt=""/>
             <img src={react} alt=""/>
-            <img src={firebase} alt=""/>
+            <img  src={firebase} alt=""/>
             
         </div>
     );

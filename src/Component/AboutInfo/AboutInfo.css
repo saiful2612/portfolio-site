@@ -1,17 +1,20 @@
 .profile{
-    background-color: silver;
+    background-color: #c0c0c052;
     width: 70%;
-    height: 200px;
     border-radius: 10px;
     margin-left: 20%;
+    padding: 50px;
+    margin: 50px auto;
+    box-sizing: border-box;
 }
 
 .headings{
     text-align: center;
     padding-top: 15px;
     padding-bottom: 15px;
-    border-bottom: 1px solid grey;
+    border-bottom: 1px solid #8080802e;
     font-size: 20px;
+    margin-bottom: 15px;
     line-height: normal;
     letter-spacing: normal;
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -20,7 +23,7 @@
 .profile p{
     color:rgb(36, 34, 34);
     font-size: large;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     line-height: 0rem;
     letter-spacing: 0rem;
 }

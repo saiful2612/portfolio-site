@@ -1,55 +1,55 @@
 .workExperience{
     display: flex;
-    margin: 10px;
-    margin-left: 20%;
     padding: 1%;
+    margin-left: 10%;
+}
+
+.Ecommerce img {
+    width: 100%;
+    height: 67%;
 }
 
 .Ecommerce{
     width: 30%;
+    overflow: hidden;
 }
 
 .Eschool{
     width: 30%;
+    overflow: hidden;
 }
 
 .github{
     width: 30%;
+    overflow: hidden;
 }
 .workExperience img{
     width: 80%;
 }
-.github img{
-    width: 100%;
-    height: 85%;
-}
 
 .Ecommerce h3{
-    margin-left: 50px;
     padding-top: 10px;
-    padding-bottom: 5px;
+    margin-bottom: 10px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 .Eschool h3{
-    margin-left: 50px;
     padding-top: 10px;
-    padding-bottom: 5px;
+    margin-bottom: 10px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 .github h3{
-    margin-left: 100px;
     padding-top: 10px;
-    padding-bottom: 9px;
+    margin-bottom: 10px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 .Wheading h1{
     text-align: center;
-    border-bottom: 1px solid grey;
+    border-bottom: 1px solid #8080802e;
     padding-bottom: 15px;
-    font-size: 40px;
+    font-size: 30px;
     font-weight: bolder;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
